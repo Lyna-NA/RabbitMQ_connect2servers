@@ -1,5 +1,3 @@
-# RabbitMQ_connect2servers
-
 # Microservices Demo Project using RabbitMQ as a Message Broker
 
  The purpose of this project is to demonstrate how to implement microservices architecture 
